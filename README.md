@@ -6,6 +6,12 @@
 工作流必须位于默认分支 master。使用内置 GITHUB_TOKEN，无需额外 Secret；仓库策略须允许 Actions 写入内容，release 分支须允许机器人推送。
 GitHub 定时任务可能延迟；公开仓库连续 60 天无活动时，定时任务可能被停用，需在 Actions 页面重新启用。
 
+## MRS 文件 Raw 链接
+
+- **直连域名列表（direct.mrs）**：[https://raw.githubusercontent.com/Dowsion-dev/clash-rules/release/direct.mrs](https://raw.githubusercontent.com/Dowsion-dev/clash-rules/release/direct.mrs)
+- **广告域名列表（reject.mrs）**：[https://raw.githubusercontent.com/Dowsion-dev/clash-rules/release/reject.mrs](https://raw.githubusercontent.com/Dowsion-dev/clash-rules/release/reject.mrs)
+- **中国大陆 IP 地址列表（cncidr.mrs）**：[https://raw.githubusercontent.com/Dowsion-dev/clash-rules/release/cncidr.mrs](https://raw.githubusercontent.com/Dowsion-dev/clash-rules/release/cncidr.mrs)
+
 ## Mihomo 配置
 
 ```yaml
