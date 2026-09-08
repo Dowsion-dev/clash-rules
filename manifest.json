@@ -1,0 +1,15 @@
+{
+  "upstream": "Loyalsoldier/clash-rules",
+  "upstream_commit": "c54343a7a40eb87ebffda760cc56feff770829db",
+  "mihomo_version": "v1.19.30",
+  "source_sha256": {
+    "direct": "fd013081d3d2b9b8c12e7d125bf3b7a07efbfed1c531197374da5b25f5d37a4a",
+    "reject": "cb42538a952c18f5a47d51171bb93d3a47b58f607bca5e39334592ecb19f430e",
+    "cncidr": "d3aff5ab4fb93f9090d296301d590c61b96c52ed36c5e267c8c1b7956b4c130f"
+  },
+  "mrs_sha256": {
+    "direct": "1c8d75855c54f34619ae32e01b57de3427871f024c42e090b28f7a2650d3e6d3",
+    "reject": "93ffc1cda5813dd62ec4be232d1c1b08bcb634f0e7bb2e583404bbe1d1eeb686",
+    "cncidr": "712297b127f727f34532b3ea43ab77d3a35ac7bc8651ef8b77ad92e7d3ef2f80"
+  }
+}
